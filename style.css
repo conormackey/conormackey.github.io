@@ -103,3 +103,6 @@ ul li a:hover i {
   text-align: center;
   color: #333;
 }
+.content ul.indent-list {
+    margin-left: 20px;
+}
